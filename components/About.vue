@@ -603,16 +603,15 @@
         </div>
         <div class="w-full px-4 lg:w-1/2 xl:w-5/12">
           <div class="mt-10 lg:mt-0">
-            <span class="block mb-4 text-lg font-semibold text-primary"> Trades sports </span>
+            <span class="block mb-4 text-lg font-semibold text-primary"> Start now </span>
             <h2 class="mb-5 text-3xl font-bold text-dark dark:text-white sm:text-[40px]/[48px]">
-              Facilite suas trades em uma única plataforma
+              Counter-Strike: Global Offensive 2
             </h2>
             <p class="mb-5 text-base text-body-color dark:text-dark-6">
-              A My Bet Space tem como missão é ajudar a comunidade de trader Esportivo a economizar seu tempo planilhando, auxiliar no dia a dia do trade, para que de forma mais ágil a validar consiga seu método, para ser mais lucrativo.
+              Counter-Strike: Global Offensive foi um jogo online desenvolvido pela Valve Corporation e pela Hidden Path Entertainment, sendo uma sequência de Counter-Strike: Source. É o quarto título principal da franquia.
             </p>
             <p class="mb-8 text-base text-body-color dark:text-dark-6">
-              Geramos diversos indicadores para você tomar as melhores decisões e conseguir validar seus métodos.
-              Você só precisa cadastrar seus métodos, preenche-los e analisar seus dados depois
+              CS:GO é um FPS da Valve disputado entre duas equipes. Elas se revezam entre terroristas e contra terroristas, os terroristas armam a bomba enquanto o outro time protege os sites, locais onde os explosivos devem ser plantados. 
             </p>
             <a
               href="javascript:void(0)"
