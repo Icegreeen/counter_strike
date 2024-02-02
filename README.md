@@ -6,7 +6,7 @@
 
 ![Captura de tela de 2024-02-02 06-19-53](https://github.com/Icegreeen/counter_strike/assets/56550632/7829f8b8-a6ef-4363-a3d1-f3935d259705)
 
-![Captura de tela de 2024-02-02 06-20-24](https://github.com/Icegreeen/counter_strike/assets/56550632/a6cd7c3f-279b-4fa8-95eb-2d0fc718ffe3)
+![Captura de tela de 2024-02-02 14-07-56](https://github.com/Icegreeen/counter_strike/assets/56550632/073471a0-018b-4046-81d6-4a826f1d5a9b)
 
 ![Captura de tela de 2024-02-02 06-24-14](https://github.com/Icegreeen/counter_strike/assets/56550632/fa6a1d01-8bac-4a6f-add5-dba877eaf625)
 
@@ -16,7 +16,7 @@
 
 ![Captura de tela de 2024-02-02 06-25-24](https://github.com/Icegreeen/counter_strike/assets/56550632/64eeafa1-f73d-463e-bbd7-856d3e591b7c)
 
-![Captura de tela de 2024-02-02 06-26-07](https://github.com/Icegreeen/counter_strike/assets/56550632/5fda4303-ec82-416c-9b6c-8210d05e8a32)
+![Captura de tela de 2024-02-02 14-09-55](https://github.com/Icegreeen/counter_strike/assets/56550632/2a79e0a9-5d46-45fa-8a99-d4c76204043e)
 
 ![Captura de tela de 2024-02-02 06-28-32](https://github.com/Icegreeen/counter_strike/assets/56550632/927bcd28-becd-4aa6-afa4-99e5903a934f)
 
