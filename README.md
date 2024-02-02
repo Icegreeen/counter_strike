@@ -20,7 +20,10 @@
 
 ![Captura de tela de 2024-02-02 06-28-32](https://github.com/Icegreeen/counter_strike/assets/56550632/927bcd28-becd-4aa6-afa4-99e5903a934f)
 
- 
+##  Login page
+
+![Captura de tela de 2024-02-02 14-13-24](https://github.com/Icegreeen/counter_strike/assets/56550632/5f293e01-15ab-49ea-a205-cdbc802b2557)
+
 # :pushpin: Table of Contents
 
 * [Running Locally](#construction_worker-running-locally)
