@@ -42,7 +42,7 @@ onUnmounted(() => {
 </script>
 
 <template>
-  <header class="flex h-16 w-full items-center mx-auto max-w-screen-xl px-16 sm:px-6 lg:px-8">
+  <header class="flex h-22 w-full items-center mx-auto max-w-screen-xl px-16 sm:px-6 lg:px-8">
     <div class="container">
       <div class="relative -mx-8 flex items-center justify-between">
         <div class="w-40 max-w-full">

@@ -1,21 +1,53 @@
-# Nuxt 3 Minimal Starter
+<h1 align="left">
+    <a">Counter strike</a>
+</h1>
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+> Project status: Completed :heavy_check_mark:
 
-## Setup
+![Captura de tela de 2024-02-02 06-19-53](https://github.com/Icegreeen/counter_strike/assets/56550632/7829f8b8-a6ef-4363-a3d1-f3935d259705)
 
-Make sure to install the dependencies:
+![Captura de tela de 2024-02-02 06-20-24](https://github.com/Icegreeen/counter_strike/assets/56550632/a6cd7c3f-279b-4fa8-95eb-2d0fc718ffe3)
 
+![Captura de tela de 2024-02-02 06-24-14](https://github.com/Icegreeen/counter_strike/assets/56550632/fa6a1d01-8bac-4a6f-add5-dba877eaf625)
+
+![Captura de tela de 2024-02-02 06-24-37](https://github.com/Icegreeen/counter_strike/assets/56550632/4209ff3e-e9e5-4247-9669-7f184f65d54c)
+
+![Captura de tela de 2024-02-02 06-25-00](https://github.com/Icegreeen/counter_strike/assets/56550632/446b334d-cd02-42d9-aff5-6773c0d70be3)
+
+![Captura de tela de 2024-02-02 06-25-24](https://github.com/Icegreeen/counter_strike/assets/56550632/64eeafa1-f73d-463e-bbd7-856d3e591b7c)
+
+![Captura de tela de 2024-02-02 06-26-07](https://github.com/Icegreeen/counter_strike/assets/56550632/5fda4303-ec82-416c-9b6c-8210d05e8a32)
+
+![Captura de tela de 2024-02-02 06-28-32](https://github.com/Icegreeen/counter_strike/assets/56550632/927bcd28-becd-4aa6-afa4-99e5903a934f)
+
+ 
+# :pushpin: Table of Contents
+
+* [Running Locally](#construction_worker-running-locally)
+* [FAQ](#postbox-faq)
+
+## :construction_worker: Running Locally
+
+A responsive, SSR, landing page for the game Counter strike 2, developed in Nuxt. + Plugin config [Google Tag Manager].
+
+#### Clone repository
 ```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
+git clone https://github.com/Icegreeen/counter_strike.git
 ```
+
+#### Install dependencies & execute web application in development mode
+```bash
+yarn or npm i
+yarn start or npm run dev
+```
+
+Define the environment variables by creating a .env.local file similar to [.env.local.example](https://github.com/Icegreeen/my-blog.git.env.local.example)
+
+# :postbox: Faq
+
+**Question:** What are the technologies used in this project?
+
+**Answer:** [NuxtJS](https://nuxt.com/),  [Typescript](https://nuxt.com/).
+
+
+

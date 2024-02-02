@@ -6,9 +6,7 @@
         <Hero />
       </TransitionOnScroll>
 
-      <TransitionOnScroll>
-        <Divider />
-      </TransitionOnScroll>
+      <Divider />
 
       <TransitionOnScroll>
         <About />
@@ -37,11 +35,8 @@
       <TransitionOnScroll>
         <Maps />
       </TransitionOnScroll>
-
   </section>
-
-  <Footer />
-    
+  <Footer /> 
 </template>
 
 <script>

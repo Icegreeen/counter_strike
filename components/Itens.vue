@@ -1,5 +1,5 @@
 <template>
-    <div class="mb-16">
+    <div class="mb-16 mt-16">
       <h1 class="text-gray-900 flex justify-center text-4xl font-bold mb-8">
         Community Market Buy
       </h1>
