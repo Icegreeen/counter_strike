@@ -46,7 +46,7 @@ onUnmounted(() => {
     <div class="container">
       <div class="relative -mx-8 flex items-center justify-between">
         <div class="w-40 max-w-full">
-          <a href="https://www.mybetspace.com/" class="block w-full">
+          <a href="/" class="block w-full">
             <img
               src="~/assets/images/logo.png"
               alt="logo"
